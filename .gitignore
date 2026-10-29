@@ -1,0 +1,16 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Üretilebilen dosyalar
+models/credit_model.pkl
+data/german_credit_data.csv
